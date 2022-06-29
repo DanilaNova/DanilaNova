@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanilaNova
-- 👀 I’m interested in OpenComputers/ComputerCraft
-- 🌱 I’m currently learning Lua
+- 👀 I’m interested in Screeps
+- 🌱 I’m currently learning Javascript
 - 📫 You can reach me on Discord: Venin#6633
 
 <!---
